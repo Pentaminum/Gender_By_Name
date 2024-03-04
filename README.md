@@ -1,1 +1,3 @@
-# Gender_By_Name
+# Spam Messages Classifier
+
+The model classifies the messages into either spam or ham.
